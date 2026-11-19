@@ -115,6 +115,8 @@ function cargarPreguntas() {
             break;
         case "programacion2":
             questions = [...programacion2];
+        case "dragon_ball_super":
+            questions = [...dragon_ball_super];
             break;
         case "general":
             questions = [
